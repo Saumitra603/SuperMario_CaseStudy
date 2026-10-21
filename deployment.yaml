@@ -13,7 +13,7 @@ spec:
         app: supermariogame
     spec:
       containers:
-      - image: saumitradocker/supermariogitops:55
+      - image: saumitradocker/supermariogitops:56
         name: supermariogame-container
         ports:
         - containerPort: 8080
